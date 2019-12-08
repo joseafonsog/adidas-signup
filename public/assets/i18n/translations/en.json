@@ -1,0 +1,15 @@
+{
+    "title": "Sing up",
+    "email.label": "Email Address",
+    "email.error": "Please insert a valid email address",
+    "age.label": "I'm older than 16.",
+    "age.message": "By law, you must be older than 16.",
+    "newsletter.label": "Do you want to get our news? Subscribe to the Newsletter!",
+    "gender.label": "Gender",
+    "gender.male": "Male",
+    "gender.female": "Female",
+    "gender.other": "Other",
+    "button.label": "Sing up",
+    "signin.link": "Already have an account? Sign in",
+    "thanks": "Thank you for sign up!"
+  }

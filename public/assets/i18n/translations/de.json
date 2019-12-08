@@ -1,0 +1,15 @@
+{
+    "title": "Anmelden",
+    "email.label": "E-Mail-Addresse",
+    "email.error": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "age.label": "Ich bin älter als 16.",
+    "age.message": "Laut Gesetz müssen Sie älter als 16 Jahre sein.",
+    "newsletter.label": "Möchten Sie unsere Neuigkeiten erfahren? Abonnieren Sie den Newsletter!",
+    "gender.label": "Geschlecht",
+    "gender.male": "Männlich",
+    "gender.female": "Weiblich",
+    "gender.other": "Andere",
+    "button.label": "Anmelden",
+    "signin.link": "Hast du schon ein Konto? Anmelden",
+    "thanks": "Vielen Dank für Ihre Anmeldung!"
+  }
